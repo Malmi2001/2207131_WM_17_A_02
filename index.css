@@ -1,0 +1,209 @@
+
+.background{
+    background-image:url('image.jpeg');
+    background-position:relative;
+  
+    background-size:cover;
+}
+
+.background2{
+    background-image:url('image.jpeg');
+    background-position:relative;
+    background-size:cover;
+    height: 435px;
+    margin: 0%;
+    padding: 0%;
+ 
+}
+.gobtn:hover{
+background-color: mediumspringgreen;
+font-style: italic;
+
+}
+.gobtn{
+    position: relative;
+    color: indigo;
+    background-color: violet;
+    height: 50px;
+    width: 200px;
+    border: 1px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    font-size: xx-large;
+    margin-right: 00px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    text-align: center;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name1{
+    position: relative;
+    color: darkblue;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+margin-bottom: 2%;
+background-color:aqua ;
+}
+
+.name2{
+    position: relative;
+    color: darkblue;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:aqua;
+
+}
+.inputs{
+    font-size: xx-large;
+    color:greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    margin-top:100px ;
+    margin-left: 280px;
+}
+
+.label1{
+    position: relative;
+    height: 20px;
+    width: 100px;
+ 
+    
+    border: 5px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    padding-bottom: 10px;
+    box-sizing: content-box;
+
+}
+.label2{
+   
+    position: relative;
+    height: 20px;
+    width: 100px;
+
+  
+    border: 5px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    box-sizing: content-box;
+}
+
+.dice1{
+    color: rgb(41, 41, 161);
+    background-color:bisque;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: 105px;
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.dice2{
+    color: rgb(41, 41, 161);
+    background-color:bisque;
+    height: 100px;
+    width: 100px;
+    margin-left: 550px;
+    margin-top: -100px;
+    position: absolute;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+}
+    .value{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+.playbtn:active{
+    color: yellowgreen;
+    background-color: blue;
+    font-style: italic;
+}
+.playbtn{
+    color: blueviolet;
+    background-color: chartreuse;
+    height: 50px;
+    width: 200px;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.score1{
+    color: lightskyblue;
+    background-color: darkblue;
+    height: 25px;
+    width: 250px;
+    margin-left: 400px;
+    margin-top: 25px;
+}
+.score2{
+    position:absolute ;
+    color: lightskyblue;
+    background-color: darkblue;
+    height: 25px;
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 35px;
+}
+
+.timer{
+    color: aquamarine;
+    height: 10px;
+    width: 20px;
+    position: absolute;
+    margin: 10%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.diceowner1{
+    position: absolute;
+    font-size: medium;
+    text-align: center;
+    margin-top: 100vh;
+    padding: 100px;
+    margin-top: -120px;
+    color:darkorange;
+    margin-left: 300px;
+    font-weight: bolder;
+   
+
+}
+
+.diceowner2{
+    position: absolute;
+    font-size: medium;
+    text-align: center;
+    margin-top: 100vh;
+    padding: 100px;
+    margin-top: -220px;
+    color:darkorange;
+    margin-left: 445px;
+    font-weight: bolder;
+   
+
+}
